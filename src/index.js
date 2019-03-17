@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import DragTable from './DragTable';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<DragTable />, document.getElementById('root'));

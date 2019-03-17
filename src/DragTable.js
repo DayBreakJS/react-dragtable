@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Table } from 'antd';
 import { Resizable } from 'react-resizable';
 import ReactDragListView from "react-drag-listview"
-import './App.css'
+import './DragTable.css'
 import 'antd/dist/antd.css'
 
 
